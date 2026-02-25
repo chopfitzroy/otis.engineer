@@ -1,0 +1,5 @@
+= Otis Sutton
+
+== About
+
+Hi, I'm Otis. Welcome to my personal site.

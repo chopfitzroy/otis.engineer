@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build pages
-        run: make
+        run: sh build.sh
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

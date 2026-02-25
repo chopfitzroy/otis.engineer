@@ -16,14 +16,17 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: pandoc/core:3.8
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
       - name: Build pages
-        run: sh build.sh
+        run: >
+          docker run --rm
+          -v "$PWD:/workspace"
+          -w /workspace
+          pandoc/core:3.8
+          sh build.sh
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

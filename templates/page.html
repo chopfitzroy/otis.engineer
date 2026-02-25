@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$title$</title>
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+</head>
+<body>
+  <nav>
+    <a href="index.html"$if(nav-overview)$ aria-current="page"$endif$>Overview</a>
+    <a href="tabletop.html"$if(nav-tabletop)$ aria-current="page"$endif$>Tabletop</a>
+    <a href="software.html"$if(nav-software)$ aria-current="page"$endif$>Software</a>
+    <a href="recipes.html"$if(nav-recipes)$ aria-current="page"$endif$>Recipes</a>
+  </nav>
+  <main>
+$body$
+  </main>
+  <footer>
+  </footer>
+</body>
+</html>

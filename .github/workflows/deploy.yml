@@ -25,8 +25,9 @@ jobs:
           docker run --rm
           -v "$PWD:/workspace"
           -w /workspace
+          --entrypoint sh
           pandoc/core:3.8
-          sh build.sh
+          build.sh
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

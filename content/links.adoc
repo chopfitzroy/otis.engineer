@@ -1,1 +1,26 @@
 = Links
+
+== Links
+
+A collection of links that I've found useful, organized into rough categories.
+
+=== LLM assisted coding
+
+I have very mixed feelings about LLM's and the impact they have on my _craft_.
+
+That doesn't mean the pragmatist in me can't see the value, so here is a collection of often conflicting views about the usage of LLM's in software engineering that have helped me.
+
+* https://www.calebleak.com/posts/dog-game/[I Taught My Dog to Vibe Code Games]
+* https://www.heavybit.com/library/article/write-only-code[Write-Only Code]
+* https://boristane.com/blog/how-i-use-claude-code/[How I Use Claude Code]
+* https://jkap.io/token-anxiety-or-a-slot-machine-by-any-other-name/["token anxiety"; or, a slot machine by any other name]
+* https://whynot.fail/human/ai-is-slowly-munching-away-my-passion/[AI is slowly munching away my passion]
+* https://siddhantkhare.com/writing/ai-fatigue-is-real[AI fatigue is real and nobody talks about it]
+* https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/[I Am Happier Writing Code by Hand]
+* https://addisoncrump.info/research/a-horrible-conclusion/[A Horrible Conclusion]
+* https://ezhik.jp/ai-slop-terrifies-me/[(AI) Slop Terrifies Me]
+* https://www.jernesto.com/articles/thinking_hard[I miss thinking hard]
+* https://atmoio.substack.com/p/after-two-years-of-vibecoding-im[After two years of vibecoding, I'm back to writing by hand]
+* https://rselbach.com/your-sub-is-now-my-weekend-project/[Your App Subscription Is Now My Weekend Project]
+* https://lucumr.pocoo.org/2026/1/18/agent-psychosis/[Agent Psychosis: Are We Going Insane?]
+ 

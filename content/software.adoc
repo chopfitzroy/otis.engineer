@@ -1,5 +1,25 @@
 = Software
 
-== Projects
+== Tools
 
-Software projects I'm working on.
+You can find a detailed decription of my development environment in my https://github.com/chopfitzroy/dotfiles-experiment[dotfiles].
+
+=== Software and services I use day-to-day and trust
+
+* https://astro.build/[Astro]
+* https://jotai.org/[Jotai]
+* https://fly.io/[Fly.io]
+* https://stately.ai/[Stately]
+* https://effect.website/[Effect]
+* https://www.convex.dev/[Convex]
+* https://posthog.com/[PostHog]
+* https://litestream.io/[Litestream]
+* https://reactrouter.com/[React Router]
+
+=== Software I am excited to play with
+
+* https://waku.gg/[Waku]
+* https://remix.run/[Remix (v3)]
+* https://tanstack.com/[TanStack]
+* https://livestore.dev/[LiveStore]
+* https://www.cloudflare.com/[Cloudflare ] (D1, R2, Workers, Durable Objects, etc...)
